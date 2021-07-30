@@ -7,7 +7,7 @@ metadata:
 spec:
   # API URL for the Dynatrace endpoint including '/api' path at the end. Either set ENVIRONMENTID to
   # the proper Dynatrace environment ID or change the apiUrl as a whole, e.g. for Managed.
-  apiUrl: https://ENVIRONMENTID.live.dynatrace.com/api
+  apiUrl: https://xmq55850.live.dynatrace.com/api
 
   # Optional: disable certificate validation checks for installer download and API communication.
   # Disabled by default.
